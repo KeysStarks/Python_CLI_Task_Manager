@@ -1,5 +1,9 @@
 # Python CLI Task Manager
 
+## Demo
+
+![Task Manager Demo](assets/demo.gif)
+
 ## Overview
 
 Python CLI Task Manager is a command-line application that allows users to manage tasks directly from the terminal.
